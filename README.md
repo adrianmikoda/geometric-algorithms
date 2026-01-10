@@ -18,3 +18,6 @@ Laboratory resources are provided by the [_BIT Scientific Group_](https://github
 | **Lab 3**       | Monotonic Polygon Triangulation                  | [Lab3](labs/lab3) |
 | **Lab 4**       | Line Intersection - Sweep Line Algorithm         | [Lab4](labs/lab4) |
 | **Project**     | Processing and storage of the description of a triangular mesh on the plane | [Project Repository](https://github.com/adrianmikoda/2D-triangulation-mesh-project) |
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
